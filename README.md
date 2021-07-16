@@ -8,13 +8,13 @@ I am always thankful for the coding community professionals supporting people li
 
 
 
-One-day ill be a good enough to actually call myself a developer.
+One-day ill be a good enough to actually call myself a developer. 😧
 
-Happy coding
+Happy coding 👍
 
 amIaDeveloper = () => {
-return "err nope!"
+return "err nope!" 😳
 }
 
 
-Javascript - inter /html - advanced? /css - advanced?/scss - inter /node - inter/ ejs,jade,pug.. - beginner / angular - beginner+ /react- beginner/Chart.js-beginner/mongo - beginner+/python - beginner /SQL,noSQL - beginner+/MVC- inter/...VSCode:)
+Javascript - inter 😊 /html - advanced? 😊 /css - advanced?😊/scss - inter😊 /node - inter😊/ ejs,jade,pug.. - beginner 😕 / angular - beginner+ /react- 😕 beginner/Chart.js-beginner😊/mongo - beginner+ 😊/python - beginner 😕 /SQL,noSQL - beginner+ 😊/MVC- inter 😊/...VSCode:) /TS+React - 😰 
